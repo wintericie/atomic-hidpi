@@ -21,7 +21,7 @@ text=AtomicHiDPI Terminal
 [Background]
 back_image=/title/back.png
 left_corner=/title/left.png
-right_corner=/title/right.pngs
+right_corner=/title/right.png
 
 [FocusButton]
 x=158
